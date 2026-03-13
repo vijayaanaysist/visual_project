@@ -1,0 +1,13 @@
+order_id,customer_id,product_x,quantity,price,order_date,return_id,product_y,return_reason,return_date,status
+1001,C001,Shampoo,2,120,2026-01-01,,,,,Completed
+1002,C002,Soap,5,40,2026-01-02,R001,Soap,Damaged,2026-01-05,Returned
+1003,C003,Toothpaste,3,90,2026-01-03,,,,,Completed
+1004,C004,Facewash,1,150,2026-01-04,R002,Facewash,Wrong Item,2026-01-07,Returned
+1005,C005,Conditioner,2,180,2026-01-05,,,,,Completed
+1006,C006,Body Lotion,1,220,2026-01-06,,,,,Completed
+1007,C007,Soap,4,40,2026-01-07,R003,Soap,Quality Issue,2026-01-09,Returned
+1008,C008,Shampoo,2,120,2026-01-08,,,,,Completed
+1009,C009,Toothpaste,1,90,2026-01-09,R004,Toothpaste,Customer Changed Mind,2026-01-10,Returned
+1010,C010,Facewash,2,150,2026-01-10,,,,,Completed
+1011,C011,Conditioner,1,180,2026-01-11,R005,Conditioner,Leaking Package,2026-01-13,Returned
+1012,C012,Body Lotion,3,220,2026-01-12,,,,,Completed

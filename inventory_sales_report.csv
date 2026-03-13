@@ -1,0 +1,11 @@
+product_id,product_name,category,stock_quantity,warehouse,restock_date,sale_id,month,quantity_sold,total_sales,sale_data
+P001,Shampoo,Personal Care,120,WH1,2026-03-10,S001,2026-01,40,4800,80
+P002,Soap,Personal Care,200,WH1,2026-03-12,S002,2026-01,75,3000,125
+P003,Toothpaste,Personal Care,150,WH2,2026-03-15,S003,2026-01,50,4500,100
+P004,Facewash,Skincare,90,WH1,2026-03-18,S004,2026-01,30,4500,60
+P005,Conditioner,Personal Care,110,WH2,2026-03-20,S005,2026-01,35,6300,75
+P006,Body Lotion,Skincare,80,WH1,2026-03-22,S006,2026-02,25,5500,55
+P007,Handwash,Hygiene,140,WH2,2026-03-25,S007,2026-02,60,3600,80
+P008,Moisturizer,Skincare,70,WH1,2026-03-28,S008,2026-02,20,4000,50
+P009,Sunscreen,Skincare,60,WH2,2026-03-30,S009,2026-02,18,3600,42
+P010,Hair Oil,Hair Care,130,WH1,2026-04-02,S010,2026-02,45,5400,85

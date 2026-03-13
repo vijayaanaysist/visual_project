@@ -1,0 +1,5 @@
+INFO:root:ETL pipeline started
+INFO:root:Data loaded successfully
+INFO:root:Transformation completed
+INFO:root:Data saved to database
+INFO:root:ETL pipeline finished

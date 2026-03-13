@@ -1,0 +1,31 @@
+order_id,customer_id,product,quantity,price,order_date,store
+101,C001,Shampoo,2,120,2026-02-01,Store1
+102,C002,Soap,5,40,2026-02-01,Store1
+103,C003,Toothpaste,3,90,2026-02-02,Store1
+104,C004,Facewash,1,150,2026-02-03,Store1
+105,C005,Conditioner,2,180,2026-02-03,Store1
+106,C006,Soap,4,40,2026-02-04,Store1
+107,C007,Shampoo,1,120,2026-02-05,Store1
+108,C008,Body Lotion,2,220,2026-02-05,Store1
+109,C009,Toothpaste,3,90,2026-02-06,Store1
+110,C010,Facewash,2,150,2026-02-07,Store1
+201,C011,Soap,3,40,2026-02-01,Store2
+202,C012,Shampoo,2,120,2026-02-02,Store2
+203,C013,Toothpaste,1,90,2026-02-02,Store2
+204,C014,Facewash,2,150,2026-02-03,Store2
+205,C015,Conditioner,1,180,2026-02-03,Store2
+206,C016,Body Lotion,1,220,2026-02-04,Store2
+207,C017,Soap,6,40,2026-02-05,Store2
+208,C018,Shampoo,2,120,2026-02-05,Store2
+209,C019,Toothpaste,2,90,2026-02-06,Store2
+210,C020,Facewash,1,150,2026-02-07,Store2
+301,C021,Shampoo,1,120,2026-02-01,Store3
+302,C022,Soap,4,40,2026-02-02,Store3
+303,C023,Toothpaste,2,90,2026-02-02,Store3
+304,C024,Facewash,1,150,2026-02-03,Store3
+305,C025,Conditioner,2,180,2026-02-03,Store3
+306,C026,Body Lotion,3,220,2026-02-04,Store3
+307,C027,Soap,5,40,2026-02-05,Store3
+308,C028,Shampoo,2,120,2026-02-05,Store3
+309,C029,Toothpaste,1,90,2026-02-06,Store3
+310,C030,Facewash,2,150,2026-02-07,Store3
